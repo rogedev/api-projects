@@ -1,0 +1,54 @@
+[
+    {
+        "id": 1,
+        "name": "Evidence",
+        "description": "Enterprise Resource Planning (ERP) Web application",
+        "image": null,
+        "technologies": [
+            "PHP",
+            "Vue JS"
+        ],
+        "date": "2022-02-14",
+        "link": "https://www.evidencetec.com/",
+        "repository": null,
+        "tags": [
+            "Backend",
+            "Front-end"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Gamezone",
+        "description": "E-commerce app for a gaming store",
+        "image": null,
+        "technologies": [
+            "PHP",
+            "Javascript",
+            "HTML",
+            "CSS"
+        ],
+        "date": "2020-12-12",
+        "link": "https://gamezonegz.000webhostapp.com/",
+        "repository": "https://github.com/rogedev/gamezone",
+        "tags": [
+            "Backend",
+            "Front-end"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Frontend Mentor - Single Price Grid Component",
+        "description": "Frontend Challenge",
+        "image": null,
+        "technologies": [
+            "HTML",
+            "SCSS"
+        ],
+        "date": "2021-02-15",
+        "link": "https://single-price-grid-component-git-main-rogedev.vercel.app/",
+        "repository": "https://github.com/rogedev/single-price-grid-component",
+        "tags": [
+            "Front-end"
+        ]
+    }
+]
